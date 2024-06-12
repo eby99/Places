@@ -53,7 +53,7 @@ const View = () => {
                                         (value, i) => {
                                             return <tr>
 
-                                                {/* <td>{value._id}</td> */}
+                                                {/*td>{value._id}</td> */}
                                                 <td>{value.pname}</td>
                                                 <td>{value.desc}</td>
                                                 <td>{value.cost}</td>
