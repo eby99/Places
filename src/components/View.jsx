@@ -59,7 +59,7 @@ const View = () => {
                                                 <td>{value.cost}</td>
                                                 <td>{value.date}</td>
                                                 <td>{value.uname}</td>
-                                                {/* <td>{value.tname}</td> */}
+                                                {/* <>{value.tname}</td> */}
                                                
                                             </tr>
                                         }
